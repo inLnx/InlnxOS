@@ -1,2 +1,0 @@
-# InlnxOS
-The InlnxOS
